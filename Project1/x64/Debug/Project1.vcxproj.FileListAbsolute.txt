@@ -1,0 +1,8 @@
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Первая контр\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Первая контр\Project1\x64\Debug\Project1.MyForm.resources
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Первая контр\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Первая контр\Project1\x64\Debug\Project1.exe
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Контрольная раб №1\Project1\x64\Debug\Project1.vcxproj.AssemblyReference.cache
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Контрольная раб №1\Project1\x64\Debug\Project1.MyForm.resources
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Контрольная раб №1\Project1\x64\Debug\Project1.vcxproj.GenerateResource.cache
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Контрольная раб №1\Project1\x64\Debug\Project1.exe
