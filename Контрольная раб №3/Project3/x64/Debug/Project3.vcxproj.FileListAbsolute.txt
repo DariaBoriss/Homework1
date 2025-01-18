@@ -1,0 +1,4 @@
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\третья контр\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\третья контр\Project3\x64\Debug\Project3.exe
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Контрольная раб №3\Project3\x64\Debug\Project3.vcxproj.AssemblyReference.cache
+C:\ADMIN\Учеба Спбгти (ту)\3 курс 5 семестр\Разработка программных систем\Контрольная раб №3\Project3\x64\Debug\Project3.exe
